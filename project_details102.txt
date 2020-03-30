@@ -1,0 +1,16 @@
+THe project as described as above we are also trying to help the users to report the crimes in the region in a given region.
+
+The application provides the interface to the user to report the crimes. The crimes can be reported by the user and provide 
+
+real time details about the scenario and the details as to the new crimes occuring in the region. 
+
+This data help us in building the real time datasets for the user. This dataset helps in optimizing the 
+
+prediction process of determining the chances of occurence of the crime in a region.
+
+This can be very helpful in providing real datasets for the crime prediction. 
+
+Therefore this can be good in determining the newer crimes in a region and how to provide more help
+
+for the people.
+

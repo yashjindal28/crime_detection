@@ -1,0 +1,40 @@
+
+The dataset we are using for the crime detection system is the one provided by the boston city.
+
+The boston city made there crime datasets open sourced, so we used there datasets to create an app based on 
+
+flutter and dart. The application is built with them and a model is fit to make a prediction.
+
+The application uses the the geo-location of the customer which we use along with the date and time 
+
+to make a prediction as to if there are any chances of any crime in that region and if yes then what 
+
+kind of crime is expected to occur in that region.
+
+These details comes as a notification to the user as to if there are any chances of crime in the region and what
+
+sort. We are also using providing as        
+  
+                                  SOS
+                                  
+support for the user. The user can tap on the button if he is in some kind of danger.
+
+It sends a notification to the ploce control room about the emergency of an indian citizen along with the geo 
+
+coordinates.
+
+We can use the mobile phone of the user to track them down in this scenario.
+
+The second message is sent to the user's relatives which he has provided to contact in the case of any emergency.
+
+Hopefully this way we can put some control to the number of crimes occuring in the city.
+
+There is also an option to automate the process of starting the camera in order to make a recording of the scenes
+
+and upload that data onto a cloud server. These can also help us to locate down the criminals as the videos 
+
+and images act as a valid proof to take actions.
+
+This is the actual project proposed by us to reduce and alert the users about the crime in a region for our
+
+CRIME PREDICTION AND DETECTION APPLICATION
